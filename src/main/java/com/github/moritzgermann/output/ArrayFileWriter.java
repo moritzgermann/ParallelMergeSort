@@ -31,7 +31,6 @@ public class ArrayFileWriter {
         try {
             writeToFile(filePath, outputArray);
         } catch (IOException e) {
-            System.err.println("Failed to write file: " + e.getMessage());
             return Optional.empty();
         }
         return Optional.of(filePath);

@@ -18,6 +18,7 @@ This project implements **Merge Sort** using Java's **Fork-Join Pool** to distri
 ## Requirements
 
 - **Java version**: This project requires Java **11 or higher**.
+- **Maven**: Apache Maven must be installed to build and run the project.
 - **Bash**: A Bash-compatible terminal is needed to execute the program.
 
 ---
@@ -26,7 +27,7 @@ This project implements **Merge Sort** using Java's **Fork-Join Pool** to distri
 
 ### Preparation 
 
-1. Ensure that **Java 11** or a newer version and **Bash** are installed on your system.
+1. Ensure that **Java 11** or a newer version, **Maven**, and **Bash** are installed on your system.
 2. Clone or download the repository.
 
 ```bash
